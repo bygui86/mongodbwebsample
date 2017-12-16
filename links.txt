@@ -1,0 +1,30 @@
+
+---[ RS - MongoDBweb - Links ]---
+
+
+---[ Theory
+
+DONE
+http://www.baeldung.com/building-a-restful-web-service-with-spring-and-java-based-configuration
+
+IN PROGRESS
+-
+
+TODO
+-
+
+
+---[ Frameworks/Platforms
+
+-
+
+
+---[ Code
+
+https://stackoverflow.com/questions/29988234/spring-data-rest-repository-with-exported-false-hides-other-repo-with-exported
+https://stackoverflow.com/questions/28330716/how-to-disable-the-default-exposure-of-spring-data-rest-repositories
+
+
+---[ Repo / Examples
+
+https://github.com/eugenp/tutorials/tree/master/spring-security-rest-full
